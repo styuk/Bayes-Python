@@ -1,4 +1,5 @@
 # Bayes-Python🦄
+*このノートブックはベイズ統計学をPythonで自習するために作成した個人的な自習ノートです。
 Pythonでベイズ統計学を学習するときに使用したコードを保管しています。  
 『Statistical Rethinking A Bayesian Course with Examples in R and Stan (2nd Edition)』は、  
 ベイズ統計学の基礎的な内容を実用例を交えて紹介している非常に優れた教科書です。
@@ -19,4 +20,4 @@ tensorflow_probability (https://github.com/ksachdeva/rethinking-tensorflow-proba
 
 なお、自分の環境で上記リンク先のノートブックを実行するには事前に準備が必要です。   
 それぞれのリンク先を参照してください。  
-(GitHubのリポジトリには章末問題の解答用のnotebookが公開されていたりして非常に勉強になります。)
+(GitHubのリポジトリには章末問題の解答用のnotebookが公開されており非常に勉強になります。)
