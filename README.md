@@ -25,4 +25,4 @@ tensorflow_probability (https://github.com/ksachdeva/rethinking-tensorflow-proba
   
 なお、自分の環境で上記リンク先のノートブックを実行するには事前に準備が必要です。   
 それぞれのリンク先を参照してください。  
-(GitHubのリポジトリには章末問題の解答用のnotebookが公開されており非常に勉強になります。)
+(前者のGitHubのリポジトリには章末問題の解答用のnotebookが公開されており非常に勉強になります。)
