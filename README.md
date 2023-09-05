@@ -22,7 +22,8 @@
 pymc (https://github.com/pymc-devs/pymc-resources/tree/main),  
 tensorflow_probability (https://github.com/ksachdeva/rethinking-tensorflow-probability)
 
-  
+pymcの方を使えるようにした方がよいと、tensorflow_probabilityのリポジトリに書かれているので  
+主にpymcの方でnotebookを追っていきたいと思います。
 なお、自分の環境で上記リンク先のノートブックを実行するには事前に準備が必要です。   
 それぞれのリンク先を参照してください。  
-両者とも非常に教育的な教材が公開されており、学習の参考になります。
+
