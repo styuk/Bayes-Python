@@ -24,6 +24,6 @@ tensorflow_probability (https://github.com/ksachdeva/rethinking-tensorflow-proba
 
 pymcの方を使えるようにした方がよいと、tensorflow_probabilityのリポジトリに書かれているので  
 主にpymcの方でnotebookを追っていきたいと思います。
-なお、自分の環境で上記リンク先のノートブックを実行するには事前に準備が必要です。   
+なお、自分の環境で上記リンク先のノートブックを実行するには事前に準備が必要な場合があります。   
 それぞれのリンク先を参照してください。  
 
