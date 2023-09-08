@@ -12,7 +12,7 @@
   
 教科書には分析で使用するRのコードが記載されていますが、   
 著者のRichard McElreath先生のwebサイト  
-(https://xcelab.net/rm/statistical-rethinking/%E3%81%A7%E3%80%81)  
+(http://xcelab.net/rm/statistical-rethinking/)  
 で同じ内容を他の言語/パッケージで行うためのGitHubが紹介されています。   
 有志の方々が作成したリポジトリのようです。
 
